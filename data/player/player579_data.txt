@@ -1,0 +1,7 @@
+player579 Data File
+yRotate=1.39
+xRotate=-961.3433
+yRotateX=-317.8305
+yRX2=938.6159
+yRotateZ=1068.4718
+yRZ2=-223.66626

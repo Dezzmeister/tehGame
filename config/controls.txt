@@ -1,0 +1,8 @@
+Dezzy
+forward=w
+back=s
+left=a
+right=d
+save=i
+sprint=SHIFT
+crouch=CTRL

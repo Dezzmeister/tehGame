@@ -1,0 +1,7 @@
+Dezzy Data File
+yRotate=1.943337
+xRotate=-961.4033
+yRotateX=-954.57544
+yRX2=6082.4595
+yRotateZ=10670.111
+yRZ2=-8015.181

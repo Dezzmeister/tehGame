@@ -1,0 +1,19 @@
+EXPLANATION OF ALL FIELDS IN CONFIG.TXT
+
+"Dezzy" MUST BE the first line or the program will not run.
+
+renderType specifies which modifications to make to the rendered image for different effects. 0 is default, 1 is side-by-side stereoscopic, 2 is red and cyan anaglyph, 3 is Oculus Rift barrel distortion
+
+baseMoveDistance specifies how many units are moved when walking either forward, back, left, or right. The default is 20.
+
+sprintModifier specifies how much to multiply baseMoveDistance by when sprinting. The default is 2.
+
+crouchModifier specifies how much to divide baseMoveDistance by when crouching. The default is 2.
+
+saveNum specifies what number to append to the name of your screenshots. It is supposed to increase every time a screenshot is taken.
+
+renderDistanceMultiplier changes how far the clipping plane is located from the camera. The default is 45.
+
+fastScreenshots determines when saveNum is saved to config.txt. If fastScreenshots is true, saveNum will be saved to config.txt when the program is exited. If fastScreenshots is false, saveNum will be saved to config.txt after every screenshot. When false, this prevents changes to saveNum from being erased due to a crash.
+
+mouseSensitivity adjusts the sensitivity of the mouse when looking around on a scale from 1 to 10, where 1 is least sensitive.

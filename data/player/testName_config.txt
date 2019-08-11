@@ -1,0 +1,9 @@
+Dezzy
+renderType=0
+baseMoveDistance=50
+sprintModifier=3
+crouchModifier=2
+saveNum=147
+renderDistanceMultiplier=1000
+fastScreenshots=false
+mouseSensitivity=8

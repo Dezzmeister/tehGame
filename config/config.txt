@@ -1,0 +1,12 @@
+Dezzy
+renderType=0
+baseMoveDistance=50
+sprintModifier=5
+crouchModifier=2
+saveNum=358
+renderDistanceMultiplier=1000.0
+fastScreenshots=false
+mouseSensitivity=8
+baseFlyDistance=200
+ip=
+port=10221

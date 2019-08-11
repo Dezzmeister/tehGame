@@ -1,0 +1,9 @@
+List of commands accessible through the console in tehGame, which can be opened with TAB(default)
+
+Note: Parentheses are used to identify fields in this file. In the game, do not use parentheses in the commands.
+
+exit 								//Quits the game
+
+player.savedata        				//Saves some internal variables and a snapshot of the config file to /data/player/(playerName)_data.txt and /data/player/(playerName)_config.txt
+
+player.setname (name)  				//Changes the player's name as long as (name) is not Dezzy

@@ -1,0 +1,7 @@
+testName Data File
+yRotate=1.4800005
+xRotate=-961.67
+yRotateX=1659.6702
+yRX2=3598.2954
+yRotateZ=4400.2705
+yRZ2=-2296.0186

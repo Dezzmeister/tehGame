@@ -1,0 +1,1 @@
+X=MsgBox("DEZZY is not the first line of config.txt.",0+16,"ERROR")
